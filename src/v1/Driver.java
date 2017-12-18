@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /*
- * Hello
  * Purpose: Data Structure and Algorithms Lab 3 Problem 2
  * Status: Complete and thourough tested
  * Last update: 02/08/2017

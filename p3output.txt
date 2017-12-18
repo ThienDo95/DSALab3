@@ -1,0 +1,59 @@
+Enter first string: 
+a
+Enter second string: 
+A
+This is your comparasion result:32
+
+Enter first string: 
+t
+Enter second string: 
+T
+This is your comparasion result:32
+
+Enter first string: 
+a
+Enter second string: 
+z
+This is your comparasion result:-25
+
+Enter first string: 
+a
+Enter second string: 
+1
+This is your comparasion result:48
+
+Enter first string: 
+1
+Enter second string: 
+A
+This is your comparasion result:-16
+
+Enter first string: 
+1
+Enter second string: 
+9
+This is your comparasion result:-8
+
+Enter first string: 
+1
+Enter second string: 
+18
+This is your comparasion result:-1
+
+Enter first string: 
+21
+Enter second string: 
+81
+This is your comparasion result:-6
+
+Enter first string: 
+to
+Enter second string: 
+top
+This is your comparasion result:-1
+
+Enter first string: 
+%
+Enter second string: 
+0
+This is your comparasion result:-11

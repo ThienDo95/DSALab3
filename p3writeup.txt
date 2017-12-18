@@ -1,0 +1,1 @@
+compareTo method compares two strings lexicographically. It is based on Unicode value of each character of two strings. Result is negative if first string precedes the second string, positive if first string follows the second string, and zero if they are equal.

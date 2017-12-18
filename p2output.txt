@@ -1,0 +1,685 @@
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+5
+List is empty
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+6
+List is empty. Cannot delete largest string.
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+7
+List is empty. Cannot reverse.
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+1
+
+Enter item: 
+Data
+Enter position to insert item in: 
+0
+Data inserted in position 0 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+5
+List of size 1 has the follow items Data 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+7
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+1
+Enter item: 
+Beverly
+Enter position to insert item in: 
+0
+Beverly inserted in position 0 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+5
+
+List of size 2 has the follow items Beverly Data 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+1
+
+Enter item: 
+Jean-Luc
+
+Enter position to insert item in: 
+5
+
+Index is invalid
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+5
+List of size 2 has the follow items Beverly Data 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+1
+
+Enter item: 
+Jean-Luc
+
+Enter position to insert item in: 
+2
+
+Jean-Luc inserted in position 2 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+1
+
+Enter item: 
+Geordi
+
+Enter position to insert item in: 
+2
+
+Geordi inserted in position 2 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+1
+
+Enter item: 
+Worf
+
+Enter position to insert item in: 
+3
+
+Worf inserted in position 3 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+5
+
+List of size 5 has the follow items Beverly Data Geordi Worf Jean-Luc 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+7
+
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+
+7
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+
+6
+Worf was the largest String and has been removed.
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+5
+
+List of size 4 has the follow items Beverly Data Geordi Jean-Luc 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+7
+
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+7
+
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+2
+
+Enter position to remove item from: 
+9
+
+Index is invalid
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+2
+
+Enter position to remove item from: 
+3
+
+Jean-Luc has been removed from position 3 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+5
+
+List of size 3 has the follow items Beverly Data Geordi 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+2
+
+Enter position to remove item from: 
+0
+
+Beverly has been removed from position 0 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+1
+
+Enter item: 
+Will
+
+Enter position to insert item in: 
+0
+
+Will inserted in position 0 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+5
+
+List of size 3 has the follow items Will Data Geordi 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+3
+
+Enter position to retrieve item from: 
+2
+
+Geordi has been retrieved at position 2
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+3
+
+Enter position to retrieve item from: 
+0
+
+Will has been retrieved at position 0
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+3
+
+Enter position to retrieve item from: 
+8
+
+Index is invalid
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+5
+
+List of size 3 has the follow items Will Data Geordi 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+6
+
+Will was the largest String and has been removed.
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+5
+
+List of size 2 has the follow items Data Geordi 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+6
+
+Geordi was the largest String and has been removed.
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+5
+
+List of size 1 has the follow items Data
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+4
+CLEARED
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+5
+List is empty
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+7
+List is empty. Cannot reverse.
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Delete the largest item in the list
+7. Reverse list
+8. Exit Program
+                       
+Choose your option: 
+
+8
+
+You are now exited the application
